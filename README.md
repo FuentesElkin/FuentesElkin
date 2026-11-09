@@ -77,3 +77,15 @@ Soy estudiante de sexto semestre de **Ingeniería en Computación en ESPOL**. Me
 | **Tecnologías** | TypeScript, Vite |
 | **Funcionalidades** | Exploración de canciones de la década pasada desde una interfaz web. |
 | **Repositorio** | [FuentesElkin/tubecrack](https://github.com/FuentesElkin/tubecrack) |
+## 📊 Estadísticas de GitHub
+
+![Estadísticas de GitHub de FuentesElkin](https://github-readme-stats.vercel.app/api?username=FuentesElkin&show_icons=true&theme=dracula&hide_border=true)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=FuentesElkin&layout=compact&theme=dracula&hide_border=true)
+
+## 📬 Contacto
+
+- 💼 **LinkedIn:** [Elkin Fuentes Morán](https://www.linkedin.com/in/elkin-fuentes-mor%C3%A1n-36ab6030a/)
+- 🐙 **GitHub:** [@FuentesElkin](https://github.com/FuentesElkin)
+- ✉️ **Correo:** [elkinfuentes75@gmail.com](mailto:elkinfuentes75@gmail.com)
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0b3d91,100:2ea44f&height=100&section=footer)
