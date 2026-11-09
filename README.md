@@ -30,3 +30,30 @@ Soy estudiante de sexto semestre de **Ingeniería en Computación en ESPOL**. Me
 - 🎓 Cursando el 6.º semestre de Ingeniería en Computación en ESPOL
 - 🔍 Buscando **prácticas profesionales**
 - 🚀 Construyendo mi portafolio y mejorando mis proyectos
+## 🛠️ Habilidades y tecnologías
+
+**Lenguajes**
+
+![Python, Java, C, JavaScript y TypeScript](https://skillicons.dev/icons?i=python,java,c,js,ts) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Frontend**
+
+![HTML y CSS](https://skillicons.dev/icons?i=html,css)
+
+**Herramientas**
+
+![Git y GitHub](https://skillicons.dev/icons?i=git,github)
+
+### ¿Cómo las he aplicado?
+
+| Tecnología | Para qué la uso | Dónde la apliqué |
+|------------|-----------------|------------------|
+| HTML | Estructura del contenido de páginas web | Sitio del Museo Presley Norton |
+| CSS | Estilos, diseño visual y maquetación | Sitio del Museo Presley Norton |
+| JavaScript | Interactividad y lógica en el navegador | Sitio del Museo Presley Norton |
+| TypeScript | JavaScript con tipado estático para código más seguro | tubecrack |
+| Python | Programación general y resolución de problemas | Ejercicios y proyectos de la carrera |
+| Java | Programación orientada a objetos | Ejercicios y proyectos de la carrera |
+| C | Programación estructurada y manejo de memoria | Ejercicios y proyectos de la carrera |
+| SQL | Consultas y modelado de bases de datos | Ejercicios y proyectos de la carrera |
+| Git y GitHub | Control de versiones, trabajo en equipo y publicación con GitHub Pages | Este portafolio y el sitio del Museo Presley Norton |
