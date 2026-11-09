@@ -57,3 +57,23 @@ Soy estudiante de sexto semestre de **Ingeniería en Computación en ESPOL**. Me
 | C | Programación estructurada y manejo de memoria | Ejercicios y proyectos de la carrera |
 | SQL | Consultas y modelado de bases de datos | Ejercicios y proyectos de la carrera |
 | Git y GitHub | Control de versiones, trabajo en equipo y publicación con GitHub Pages | Este portafolio y el sitio del Museo Presley Norton |
+## 🚀 Proyectos destacados
+
+### 🏛️ Museo Presley Norton
+
+| Campo | Detalle |
+|-------|---------|
+| **Problema** | Presentar la información del museo de forma clara y accesible en un sitio web, para que cualquier persona pueda conocerlo antes de visitarlo. |
+| **Tecnologías** | HTML, CSS, JavaScript, Git, GitHub Pages |
+| **Funcionalidades** | Sitio web publicado y desarrollado en equipo, con ramas y pull requests. Mi aporte: la estructura base del sitio. |
+| **Repositorio** | [luri234/MuseoPresleyNorton](https://github.com/luri234/MuseoPresleyNorton) |
+| **Demo** | [Ver sitio](https://luri234.github.io/MuseoPresleyNorton/) |
+
+### 🎵 tubecrack
+
+| Campo | Detalle |
+|-------|---------|
+| **Problema** | Descubrir y explorar canciones de la década pasada de forma libre, a tu propio ritmo. |
+| **Tecnologías** | TypeScript, Vite |
+| **Funcionalidades** | Exploración de canciones de la década pasada desde una interfaz web. |
+| **Repositorio** | [FuentesElkin/tubecrack](https://github.com/FuentesElkin/tubecrack) |
