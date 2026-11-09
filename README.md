@@ -11,3 +11,22 @@
 ![ESPOL](https://img.shields.io/badge/ESPOL-Ingeniería%20en%20Computación-0b3d91?style=flat-square)
 ![Semestre](https://img.shields.io/badge/Semestre-6.º-2ea44f?style=flat-square)
 ![Prácticas](https://img.shields.io/badge/Busco-Prácticas%20profesionales-f59e0b?style=flat-square)
+## 🙋‍♂️ Sobre mí
+
+Soy estudiante de sexto semestre de **Ingeniería en Computación en ESPOL**. Me interesa el diseño de interfaces, el diseño centrado en el usuario y la ingeniería de software. Disfruto construir productos que sean claros de usar y estén bien estructurados por dentro.
+
+| Carrera | Institución | Nivel actual |
+|---------|-------------|--------------|
+| Ingeniería en Computación | ESPOL | 6.º semestre |
+
+## 🎯 Áreas de interés
+
+- 🎨 **UX/UI:** diseño de interfaces claras, ordenadas y agradables de usar.
+- 🧑‍🤝‍🧑 **DCU (diseño centrado en el usuario):** partir de las necesidades reales de las personas antes de construir.
+- 🛠️ **Ingeniería de software:** buenas prácticas, trabajo en equipo y control de versiones.
+
+## ⬆️ En lo que ando
+
+- 🎓 Cursando el 6.º semestre de Ingeniería en Computación en ESPOL
+- 🔍 Buscando **prácticas profesionales**
+- 🚀 Construyendo mi portafolio y mejorando mis proyectos
