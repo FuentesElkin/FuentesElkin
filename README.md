@@ -57,6 +57,7 @@ Soy estudiante de sexto semestre de **Ingeniería en Computación en ESPOL**. Me
 | C | Programación estructurada y manejo de memoria | Ejercicios y proyectos de la carrera |
 | SQL | Consultas y modelado de bases de datos | Ejercicios y proyectos de la carrera |
 | Git y GitHub | Control de versiones, trabajo en equipo y publicación con GitHub Pages | Este portafolio y el sitio del Museo Presley Norton |
+
 ## 🚀 Proyectos destacados
 
 ### 🏛️ Museo Presley Norton
@@ -77,10 +78,6 @@ Soy estudiante de sexto semestre de **Ingeniería en Computación en ESPOL**. Me
 | **Tecnologías** | TypeScript, Vite |
 | **Funcionalidades** | Exploración de canciones de la década pasada desde una interfaz web. |
 | **Repositorio** | [FuentesElkin/tubecrack](https://github.com/FuentesElkin/tubecrack) |
-## 📊 Estadísticas de GitHub
-
-![Estadísticas de GitHub de FuentesElkin](https://github-readme-stats.vercel.app/api?username=FuentesElkin&show_icons=true&theme=dracula&hide_border=true)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=FuentesElkin&layout=compact&theme=dracula&hide_border=true)
 
 ## 📬 Contacto
 
