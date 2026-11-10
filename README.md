@@ -13,7 +13,7 @@
 ![Prácticas](https://img.shields.io/badge/Busco-Prácticas%20profesionales-f59e0b?style=flat-square)
 ## 🙋‍♂️ Sobre mí
 
-Soy estudiante de sexto semestre de **Ingeniería en Computación en ESPOL**. Me interesa el diseño de interfaces, el diseño centrado en el usuario y la ingeniería de software. Disfruto construir productos que sean claros de usar y estén bien estructurados por dentro.
+Soy estudiante de **Ingeniería en Computación**. Me interesa el diseño de interfaces, el diseño centrado en el usuario y la ingeniería de software. Disfruto construir productos que sean claros de usar y estén bien estructurados por dentro.
 
 | Carrera | Institución | Nivel actual |
 |---------|-------------|--------------|
@@ -23,11 +23,11 @@ Soy estudiante de sexto semestre de **Ingeniería en Computación en ESPOL**. Me
 
 - 🎨 **UX/UI:** diseño de interfaces claras, ordenadas y agradables de usar.
 - 🧑‍🤝‍🧑 **DCU (diseño centrado en el usuario):** partir de las necesidades reales de las personas antes de construir.
-- 🛠️ **Ingeniería de software:** buenas prácticas, trabajo en equipo y control de versiones.
+- 🛠️ **Ingeniería de software:** elicitación de requerimientos, trabajo en equipo a partir de metodologías ágiles y control de versiones.
 
 ## ⬆️ En lo que ando
 
-- 🎓 Cursando el 6.º semestre de Ingeniería en Computación en ESPOL
+- 🎓 Cursando Redes de datos, Inglés V, entre otros.
 - 🔍 Buscando **prácticas profesionales**
 - 🚀 Construyendo mi portafolio y mejorando mis proyectos
 
@@ -65,7 +65,7 @@ Lo uso en **tubecrack** para escribir JavaScript con tipos y detectar errores an
 
 🎯 **Problema:** presentar la información del museo de forma clara y accesible, para que cualquier persona pueda conocerlo antes de visitarlo.
 
-✨ **Funcionalidades:** sitio web multipágina trabajado en equipo con ramas y pull requests.
+✨ **Funcionalidades:** Mapa del museo acompañado de una selecta galería y descripción de actividades con participación programable en la web.
 
 🙋‍♂️ **Mi aporte:** la estructura base del sitio.
 
@@ -79,13 +79,27 @@ Lo uso en **tubecrack** para escribir JavaScript con tipos y detectar errores an
 
 > Explora canciones de la década pasada a tu propio ritmo.
 
-🎯 **Problema:** descubrir y explorar música de la década pasada de forma libre, sin seguir una lista cerrada.
+🎯 **Problema:** descubrir datos de canciones resulta agotador.
 
-✨ **Funcionalidades:** exploración de canciones de la década pasada desde una interfaz web.
+✨ **Funcionalidades:** exploración de canciones y su información desde una interfaz web.
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
 [![Repositorio](https://img.shields.io/badge/Repositorio-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/FuentesElkin/tubecrack)
+
+---
+
+### 🧭 wikitracker
+
+> Extensión de navegador para Wikipedia.
+
+🎯 **Problema:** poder verificar el recorrido que hace una persona por las secciones de una página web.
+
+✨ **Funcionalidades:** un script que sigue el recorrido dentro de la página y una ventana emergente (popup) de la extensión para consultar el resultado.
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Extensión](https://img.shields.io/badge/Extensión-de%20navegador-4285F4?style=flat-square)
+
+[![Repositorio](https://img.shields.io/badge/Repositorio-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/FuentesElkin/wikitracker)
 
 ---
 
