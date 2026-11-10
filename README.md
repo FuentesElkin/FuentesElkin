@@ -30,54 +30,76 @@ Soy estudiante de sexto semestre de **Ingeniería en Computación en ESPOL**. Me
 - 🎓 Cursando el 6.º semestre de Ingeniería en Computación en ESPOL
 - 🔍 Buscando **prácticas profesionales**
 - 🚀 Construyendo mi portafolio y mejorando mis proyectos
+
 ## 🛠️ Habilidades y tecnologías
 
-**Lenguajes**
+### 🌐 Desarrollo web
 
-![Python, Java, C, JavaScript y TypeScript](https://skillicons.dev/icons?i=python,java,c,js,ts) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML, CSS y JavaScript](https://skillicons.dev/icons?i=html,css,js)
 
-**Frontend**
+Con **HTML, CSS y JavaScript** construí, junto a mi equipo, el sitio del **Museo Presley Norton**: la estructura, el diseño visual y el comportamiento en el navegador.
 
-![HTML y CSS](https://skillicons.dev/icons?i=html,css)
+### 🧩 TypeScript
 
-**Herramientas**
+![TypeScript](https://skillicons.dev/icons?i=ts)
+
+Lo uso en **tubecrack** para escribir JavaScript con tipos y detectar errores antes de ejecutar el código.
+
+### 💻 Lenguajes de programación
+
+![Python, Java y C](https://skillicons.dev/icons?i=python,java,c) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Python**, **Java** y **C** los he trabajado en la carrera para resolver problemas, practicar programación orientada a objetos y entender cómo funciona la memoria. Con **SQL** consulto y modelo bases de datos.
+
+### 🔧 Herramientas
 
 ![Git y GitHub](https://skillicons.dev/icons?i=git,github)
 
-### ¿Cómo las he aplicado?
-
-| Tecnología | Para qué la uso | Dónde la apliqué |
-|------------|-----------------|------------------|
-| HTML | Estructura del contenido de páginas web | Sitio del Museo Presley Norton |
-| CSS | Estilos, diseño visual y maquetación | Sitio del Museo Presley Norton |
-| JavaScript | Interactividad y lógica en el navegador | Sitio del Museo Presley Norton |
-| TypeScript | JavaScript con tipado estático para código más seguro | tubecrack |
-| Python | Programación general y resolución de problemas | Ejercicios y proyectos de la carrera |
-| Java | Programación orientada a objetos | Ejercicios y proyectos de la carrera |
-| C | Programación estructurada y manejo de memoria | Ejercicios y proyectos de la carrera |
-| SQL | Consultas y modelado de bases de datos | Ejercicios y proyectos de la carrera |
-| Git y GitHub | Control de versiones, trabajo en equipo y publicación con GitHub Pages | Este portafolio y el sitio del Museo Presley Norton |
+**Git y GitHub** me sirven para versionar, trabajar en equipo con ramas y pull requests, y publicar con GitHub Pages, como en este portafolio y en el sitio del Museo.
 
 ## 🚀 Proyectos destacados
 
 ### 🏛️ Museo Presley Norton
 
-| Campo | Detalle |
-|-------|---------|
-| **Problema** | Presentar la información del museo de forma clara y accesible en un sitio web, para que cualquier persona pueda conocerlo antes de visitarlo. |
-| **Tecnologías** | HTML, CSS, JavaScript, Git, GitHub Pages |
-| **Funcionalidades** | Sitio web publicado y desarrollado en equipo, con ramas y pull requests. Mi aporte: la estructura base del sitio. |
-| **Repositorio** | [luri234/MuseoPresleyNorton](https://github.com/luri234/MuseoPresleyNorton) |
-| **Demo** | [Ver sitio](https://luri234.github.io/MuseoPresleyNorton/) |
+> Sitio web del museo, desarrollado en equipo y publicado con GitHub Pages.
+
+🎯 **Problema:** presentar la información del museo de forma clara y accesible, para que cualquier persona pueda conocerlo antes de visitarlo.
+
+✨ **Funcionalidades:** sitio web multipágina trabajado en equipo con ramas y pull requests.
+
+🙋‍♂️ **Mi aporte:** la estructura base del sitio.
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+[![Repositorio](https://img.shields.io/badge/Repositorio-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/luri234/MuseoPresleyNorton) [![Demo](https://img.shields.io/badge/Demo-Ver%20sitio-2ea44f?style=for-the-badge)](https://luri234.github.io/MuseoPresleyNorton/)
+
+---
 
 ### 🎵 tubecrack
 
-| Campo | Detalle |
-|-------|---------|
-| **Problema** | Descubrir y explorar canciones de la década pasada de forma libre, a tu propio ritmo. |
-| **Tecnologías** | TypeScript, Vite |
-| **Funcionalidades** | Exploración de canciones de la década pasada desde una interfaz web. |
-| **Repositorio** | [FuentesElkin/tubecrack](https://github.com/FuentesElkin/tubecrack) |
+> Explora canciones de la década pasada a tu propio ritmo.
+
+🎯 **Problema:** descubrir y explorar música de la década pasada de forma libre, sin seguir una lista cerrada.
+
+✨ **Funcionalidades:** exploración de canciones de la década pasada desde una interfaz web.
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+
+[![Repositorio](https://img.shields.io/badge/Repositorio-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/FuentesElkin/tubecrack)
+
+---
+
+## 🎓 Experiencia
+
+### 👨‍🏫 Ayudante de docencia · ESPOL
+
+Apoyo a estudiantes y docentes en materias de la carrera:
+
+- ➗ **Matemáticas Discretas**
+- 🖥️ **Programación de Sistemas**
+- 🌍 **Computación y Sociedad**
+
+Explicar conceptos a otras personas me ayuda a entenderlos mejor y a comunicarme con claridad.
 
 ## 📬 Contacto
 
